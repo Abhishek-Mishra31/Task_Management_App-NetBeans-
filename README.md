@@ -34,8 +34,7 @@ UserTaskManagement/
 │   │   ├── UserService.java
 │   │   ├── TaskService.java
 │   ├── com.abhishek.kumar.servlet/
-│   │   ├── UserServlet.java
-│   │   ├── TaskServlet.java
+│   │   ├── newServlet.java
 ├── WebContent/
 │   ├── jsp/
 │   │   ├── index.jsp
